@@ -1,5 +1,5 @@
 # Playwright Basics Repository
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,playwright,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript)](https://skillicons.dev)
 
 This repository contains simple playwright tests. The tests contain basic playwright testing concepts and were created for the purpose of learning this technology.
 ## Table of Contents
@@ -65,8 +65,6 @@ Contributions to this project are welcome! If you find any issues or would like 
 ## Contact
 
 If you have any questions or suggestions regarding this project, feel free to contact the project owner at [lukas.veselovsky1@gmail.com](mailto:lukas.veselovsky1@gmail.com).
-
----
 
 ## License
 
