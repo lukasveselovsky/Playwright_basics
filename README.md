@@ -1,6 +1,8 @@
 # Playwright Basics Repository
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript)](https://skillicons.dev)
-
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" alt="Playwright" title="Playwright"/></code>
+</div>
 This repository contains simple playwright tests. The tests contain basic playwright testing concepts and were created for the purpose of learning this technology.
 ## Table of Contents
 1. [Introduction](#introduction)
